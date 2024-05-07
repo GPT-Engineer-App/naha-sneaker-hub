@@ -39,7 +39,7 @@ const Index = () => {
         </Flex>
       </Flex>
 
-      <VStack spacing={8} my={8}>
+      <VStack spacing={8} my={0}>
         <Flex overflow="hidden" w="full" pos="relative">
           {featuredShoes.map((shoe) => (
             <Box key={shoe.id} flex="none" boxSize="full" p={5}>
