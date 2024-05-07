@@ -26,7 +26,7 @@ const Index = () => {
     <Container maxW="container.xl" p={0}>
       <Flex bg="gray.100" p={4} justifyContent="space-between" alignItems="center">
         <Text fontSize="2xl" fontWeight="bold">
-          naha
+          naha.2
         </Text>
         <InputGroup w="30%">
           <Input placeholder="Search for shoes..." />
